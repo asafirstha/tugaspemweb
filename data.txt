@@ -1,0 +1,3 @@
+kode_buku: 138a, judul_buku: Laskar Pelangi, pengarang: A, penerbit: B, tahun_terbit: 2010, jumlah_halaman: 118, kategori: Novel, cover: i
+kode_buku: 138a, judul_buku: Laskar Pelangi, pengarang: A, penerbit: B, tahun_terbit: 2010, jumlah_halaman: 118, kategori: Novel, cover: i
+kode_buku: 12, judul_buku: ilmu pengetahuan, pengarang: A, penerbit: B, tahun_terbit: 2019, jumlah_halaman: 160, kategori: Lainnya, cover: d
